@@ -1,44 +1,33 @@
-## Done
 
-Avec les étudiants durant la semaine:  
-- https://github.com/EloiStree/2025_01_20_GlobalGameJamMons/blob/main/done_week.md    
 
-Project Eloi durant le weekend: 
-- https://github.com/EloiStree/2025_01_20_GlobalGameJamMons/blob/main/done_weekend.md  
-![image](https://github.com/user-attachments/assets/6d4c0372-61ef-45bd-b3db-d911b56d864c)
+Creer un jeux en 7 jours:
+https://technocite.be/formations/creer-un-jeu-video-en-7-jours
 
+En paralleles de la Global Game Jam, entrainons nous a produir un jeu en equie publier sur le store Itch.io en 7 jours.
+Le but est de se faire faire les dents sur la matiere etudier precedemment en equipe avec Git.
+
+La thematique est donner Lundi et project doit etre fini dimanche a 14H.
+
+Comme l atelier a lieu dans le cadre d un center de formation, le but est de faire le jeu en 7h30 x7 jours
+De 8H30 a 17H ( Vous pouvez faire plus en creant hors des heures ).
+
+Il faut etre demandeur d emploi pour participer a la formation.
+
+Si vous voulez faire la Global Game Jam hors de ce cadre, je vous conseille la localisaiton sur Mons:
+https://globalgamejam.org/jam-sites/2026/cgacademy
 
 
 -----------------------
 
-# Atelier
+# Global Game Jam, Charleroi  
 
-[![GlobalGameJam](https://github.com/user-attachments/assets/e5311824-8110-4aa9-b5b2-f7df63984a9f)](https://technocite.be/formations/creer-un-jeu-video-en-5-jours)
-
-Global Game Jam: 
-
-**Inscription, 20-24**, Technocité:  
-- https://technocite.be/formations/creer-un-jeu-video-en-5-jours
-
-**Inscription, 24-26**, CG Academy:   
-- https://globalgamejam.org/jam-sites/2025/cgacademy
-  - https://cgacademy.be/ggj  https://cgacademy.be/discord
-
-
+## Atelier
 
 Contact: 
 - Coach: EloiStree [https://discord.gg/DdqZ3H5h2A](https://discord.gg/DdqZ3H5h2A).
 - Responsable: Bruno Follet [https://technocite.be/lequipe/](https://technocite.be/lequipe/)
 
- -------------------
-
-
-_Il n'y a pas de local mis à dispotion pour le weekend._
-Après l'atelier, Vous pouvez continuez la jam chez vous ou la continuer à la CGAcadmey de Mons. Voir inscription: https://globalgamejam.org/jam-sites/2025/cgacademy
-
-# Global Game Jam Mons  
-
-Bonjour à vous et bienvenue dans cette proposition d'atelier à Mons.  
+Bonjour à vous et bienvenue dans cette proposition d'atelier à Charleroi.  
 
 Matériels: 
 - vous devez amener votre matériel
@@ -48,34 +37,18 @@ Matériels:
   - Un cable ethernet*
  
 Domir sur place: Non
-Horaire: de 8h30 à 17h30 
-Lieu : 1, Boulevard Initialis B-7000 Mons
-
-
-
-# Matériel apporté par Eloi
-
-- Deux [Quest 3S](https://github.com/EloiStree/HelloInput/issues/311)
-- Un [Quest 3](https://github.com/EloiStree/HelloInput/issues/311) et Quest 2
-- 4 [Raspberry PI 5](https://github.com/EloiStree/HelloInput/issues/308) (avec clavier souris) pour faire du Scratch
-  - si vous ne connaisser pas grand chose à la création de jeu et que vous voulez apprendre.
-  - si vous voulez prendre les défis de faire un jam sur Scratch pour le fun et le challenge.
-- Quelque boutons, Arduino, Raspberry Pi Pico et Arduino au cas où.
-- Un outil pour projecter 4 écran sur un écran commun pour les PI, ou pour le fun.
+Horaire: de 8h30 à 17h00
 
 
 # Coaching
 
-Si l'atelier à lieu, je serai présent pour vous coachez et vous aider durant la semaine.
+Je serai présent pour vous coachez et vous aider durant la semaine.
 Que ce soit pour, des questions:
 - Sur Unity3D
 - Sur Scratch
 - Sur les réseaux: Udp, Websocket, Mirror
 - Sur les casques Meta Quest3
 - Sur le principe du KISS.
-
-
-
 
 
 -----------------
@@ -125,10 +98,7 @@ Une petite vidéo rapide, un fichier ZIP, et deux ou trois captures d’écran p
 ### **Notre planning**  
 
 **Note  :**  
-- Ne sacrifiez pas votre santé. Dormez, hydratez-vous, et prenez des pauses.  
-- Pour ceux qui continuent le week-end :  
-  - Essayez de vous regrouper pour travailler ensemble.  
-  - Mais vous pouvez aussi commencer un nouveau jeu à 17h avec des inconnus.  
+- Ne sacrifiez pas votre santé. Dormez, hydratez-vous, et prenez des pauses.   
 - Le mot "jam" vient des jams musicaux : improviser de la musique avec un ou plusieurs inconnus.  
   - Il est souvent préférable de sortir de sa zone de confort.
 - Amusez-vous🙌
@@ -171,8 +141,24 @@ Le jeu doit être terminé. Profitez-en pour le nettoyer, ajouter un menu et le 
 **Vendredi après-midi :**  
 Publiez votre jeu sur Itch.io et sur le site de la Global Game Jam, si possible. Prenez également le temps de tester les jeux des autres.  
 
-**Vendredi 15h ?**  
-Pour ceux qui participent à la Global Game Jam le week-end, rendez-vous tranquillement à la CG Academy à Mons.  
+**Samedi matin :**  
+Ok notre jeux est publier en version alpha. Prenons le temps de rajouter des details.
+
+**Samedi après-midi :**  
+Une dernier ligne droite pour finir le jeu
+
+**Dimache matin :**  
+C est le moment de faire de l archivage: video, Trailer, Description, Testing, Treaking
+
+**Dimache après-midi, 14H :**  
+- Presenter au autre equipe un trailler de votre jeu
+- Tester et jouer au jeux des autres equipes
+- Nettoyer et ranger les locaux.
+
+**Dimache 17H :**  
+- Fermeture des locaux
+- Aller boire un verre pour faiter votre haut fait 🍻🎮
+
 
 
 
@@ -193,8 +179,10 @@ We will be live on YouTube and Twitch on January 19th from 6pm-7pm UTC!
 [![image](https://github.com/user-attachments/assets/4a1b7d94-21e7-4349-a945-e586d307374d)](https://youtu.be/u0cI4fJ-vhM)  
 https://youtu.be/u0cI4fJ-vhM  
 
+----------------- 
 
-**Trucs et astuces :**  
+**Trucs et astuces : D'une jam de 48H**  
+
 Selon la "loi de Pi", une tâche estimée à une heure prendra en réalité 3,14 heures en raison de la recherche, du développement et des bugs.  
 
 Durant une jam, voici le temps à disposition :  
