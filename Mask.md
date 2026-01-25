@@ -206,3 +206,11 @@ Then use it to apply a Shader Graph or a compute shader only on that part. ?
 Detect the hand finger and apply a shader mask between them.
 ( I was thinking about a kid holaoup portal)
 <img width="740" height="740" alt="image" src="https://github.com/user-attachments/assets/f38a36ba-e76d-4f8c-a765-daebb7af48ff" />
+
+
+
+
+-------------
+
+[<img width="1130" height="640" alt="image" src="https://github.com/user-attachments/assets/2a89463a-c38c-4aec-ae26-c7948e9976bd" />](https://youtu.be/FepNBOXLo9Y?t=1037)
+https://youtu.be/FepNBOXLo9Y?t=1037
