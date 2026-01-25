@@ -1,3 +1,6 @@
+
+
+
 Créer un jeu en 7 jours :
 [https://technocite.be/formations/creer-un-jeu-video-en-7-jours](https://technocite.be/formations/creer-un-jeu-video-en-7-jours)
 
@@ -17,6 +20,9 @@ Si vous voulez faire la Global Game Jam hors de ce cadre, je vous conseille la l
 ### Thème
 
 Donné le dimanche ou le lundi 26 janvier 2026.
+
+https://youtu.be/hTePXmKUL3A
+
 
 ---
 
