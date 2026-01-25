@@ -224,8 +224,6 @@ And the the detected face around you 😜
 You are basicaly blind except for the mask detected.    
 
 
-
-
 -----------
 
 [<img width="1115" height="571" alt="image" src="https://github.com/user-attachments/assets/2f688ebc-2044-45b2-b2b0-706373366d3c" />](https://youtu.be/FXFgkAmvpgo?t=29)
@@ -234,3 +232,11 @@ https://youtu.be/FXFgkAmvpgo?t=29
 
 ---------
 <img width="946" height="294" alt="image" src="https://github.com/user-attachments/assets/8e7443c9-0844-4f37-8afc-36877ecd3db2" />
+
+
+
+-----------
+
+
+Vuforia for Quest ?
+https://github.com/danieloquelis/Unity-QuestVuforia
