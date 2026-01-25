@@ -176,4 +176,24 @@ https://www.shadertoy.com/view/lc3SRX
 Un freddy avec 10 webcams dans la vrai vie qui ne detect que les changement de pixel.
 
 
+---------------------------
+
+<img width="520" height="649" alt="image" src="https://github.com/user-attachments/assets/8811a4dd-c705-4d65-8aad-148aca524d0f" />
+
+
+-------------
+
+- Make an OpenAI mask application that fit a mask on the given face.
+- Use an image ai that show young and old face a personne and display it over the personne in fron of the Quest 3.
+
+
+
+--------------
+
+
+Make a mask of a 3d object compare to the Quest 3 Camera field of view.
+Then use it to apply a Shader Graph or a compute shader only on that part. ?
+
+<img width="1347" height="1032" alt="image" src="https://github.com/user-attachments/assets/f4c38075-54a1-42ab-84d7-5bafd9971f4f" />
+<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/146c2f72-c732-47b2-87e3-c93c7575782d" />
 
