@@ -197,3 +197,12 @@ Then use it to apply a Shader Graph or a compute shader only on that part. ?
 <img width="1347" height="1032" alt="image" src="https://github.com/user-attachments/assets/f4c38075-54a1-42ab-84d7-5bafd9971f4f" />
 <img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/146c2f72-c732-47b2-87e3-c93c7575782d" />
 
+
+
+
+-------------
+
+
+Detect the hand finger and apply a shader mask between them.
+( I was thinking about a kid holaoup portal)
+<img width="740" height="740" alt="image" src="https://github.com/user-attachments/assets/f38a36ba-e76d-4f8c-a765-daebb7af48ff" />
