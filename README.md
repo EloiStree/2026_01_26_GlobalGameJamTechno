@@ -20,8 +20,9 @@ Si vous voulez faire la Global Game Jam hors de ce cadre, je vous conseille la l
 ### Thème
 
 Donné le dimanche ou le lundi 26 janvier 2026.
+[<img width="1487" height="792" alt="image" src="https://github.com/user-attachments/assets/e770a8f6-e99d-42bc-8e71-5233e618735d" />](https://youtu.be/hTePXmKUL3A)  
+https://youtu.be/hTePXmKUL3A  
 
-https://youtu.be/hTePXmKUL3A
 
 
 ---
