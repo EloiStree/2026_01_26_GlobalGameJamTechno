@@ -151,3 +151,29 @@ https://assetstore.unity.com/search#q=mask
 
 
 <img width="1092" height="603" alt="image" src="https://github.com/user-attachments/assets/0aad9944-cfcd-41d5-b254-923dfa8be50f" />
+
+
+----------
+
+Artillery game where you need to mask your position.
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/1c366656-8344-44fd-88d5-b0e8d5893ba2" />
+
+
+
+---------
+
+Rick and morty multiplayer where you need to hide your position. 
+<img width="430" height="242" alt="image" src="https://github.com/user-attachments/assets/45852e02-14d6-4d39-a286-998af8230443" />
+
+https://www.youtube.com/watch?v=nJh5FTiZTu8
+
+
+---
+You only see what is moving in the screen
+[<img width="666" height="353" alt="image" src="https://github.com/user-attachments/assets/8578a63a-6877-489e-ab17-38d0711ea78d" />](https://www.shadertoy.com/view/lc3SRX)
+https://www.shadertoy.com/view/lc3SRX
+
+Un freddy avec 10 webcams dans la vrai vie qui ne detect que les changement de pixel.
+
+
+
