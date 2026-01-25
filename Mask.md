@@ -214,3 +214,13 @@ Detect the hand finger and apply a shader mask between them.
 
 [<img width="1130" height="640" alt="image" src="https://github.com/user-attachments/assets/2a89463a-c38c-4aec-ae26-c7948e9976bd" />](https://youtu.be/FepNBOXLo9Y?t=1037)
 https://youtu.be/FepNBOXLo9Y?t=1037
+
+
+-------------
+
+
+Make a game where you only see burn light of the texture.  
+And the the detected face around you 😜    
+You are basicaly blind except for the mask detected.    
+
+
