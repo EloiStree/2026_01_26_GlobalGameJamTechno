@@ -125,3 +125,29 @@ Une application pour montrer comment peindre sur le visage d une personne ?
 
 <img width="1280" height="693" alt="image" src="https://github.com/user-attachments/assets/f19804f2-4f34-4c24-b24d-cc4a5a724e83" />
 
+
+
+
+
+
+
+--------------
+https://assetstore.unity.com/search#q=mask
+<img width="1173" height="702" alt="image" src="https://github.com/user-attachments/assets/894ea136-c136-4cbd-baca-e2e610c2465d" />
+
+
+<img width="1093" height="347" alt="image" src="https://github.com/user-attachments/assets/f84ed27d-f639-47c8-8cd5-7a4794e89011" />
+
+
+<img width="273" height="318" alt="image" src="https://github.com/user-attachments/assets/4b0016ed-b2ce-49e4-becb-ecfefd176fd4" />
+
+
+<img width="1338" height="634" alt="image" src="https://github.com/user-attachments/assets/bf5c4bcc-a2df-4464-a00f-982306ce2f2f" />
+
+
+--------------
+
+<img width="562" height="785" alt="image" src="https://github.com/user-attachments/assets/86c04cc5-0c65-42a5-aa98-047b7b8326ac" />
+
+
+<img width="1092" height="603" alt="image" src="https://github.com/user-attachments/assets/0aad9944-cfcd-41d5-b254-923dfa8be50f" />
