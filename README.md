@@ -1,6 +1,14 @@
 
 
 
+<img width="3000" height="959" alt="image" src="https://github.com/user-attachments/assets/bc663334-3fd8-4805-b11e-fec1d0910896" />
+[<img width="1371" height="806" alt="image" src="https://github.com/user-attachments/assets/5bb2a590-5662-4cea-91fa-2eedd0bc55bb" />](https://av-interactive.itch.io/the-curse-of-kukulkan)
+
+Itch.io: https://av-interactive.itch.io/the-curse-of-kukulkan  
+Source Code: https://github.com/AV-Interactive/ggj-2026/tree/dev  
+
+----------------------------------------
+
 Créer un jeu en 7 jours :
 [https://technocite.be/formations/creer-un-jeu-video-en-7-jours](https://technocite.be/formations/creer-un-jeu-video-en-7-jours)
 
