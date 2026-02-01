@@ -1,11 +1,16 @@
 
 
 
-<img width="3000" height="959" alt="image" src="https://github.com/user-attachments/assets/bc663334-3fd8-4805-b11e-fec1d0910896" />
-[<img width="1371" height="806" alt="image" src="https://github.com/user-attachments/assets/5bb2a590-5662-4cea-91fa-2eedd0bc55bb" />](https://av-interactive.itch.io/the-curse-of-kukulkan)
+<img width="3000" height="959" alt="image" src="https://github.com/user-attachments/assets/bc663334-3fd8-4805-b11e-fec1d0910896" />  
+[<img width="1371" height="806" alt="image" src="https://github.com/user-attachments/assets/5bb2a590-5662-4cea-91fa-2eedd0bc55bb" />](https://av-interactive.itch.io/the-curse-of-kukulkan)  
 
-Itch.io: https://av-interactive.itch.io/the-curse-of-kukulkan  
-Source Code: https://github.com/AV-Interactive/ggj-2026/tree/dev  
+Itch.io: https://av-interactive.itch.io/the-curse-of-kukulkan      
+Source Code: https://github.com/AV-Interactive/ggj-2026/tree/dev    
+
+Xbox:
+- Left Joystick: Change Mask
+- Right Jooystick: Aim
+- Side Button: Activate the mask
 
 ----------------------------------------
 
